@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sydshelf75&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sridharsing7570&theme=dark" alt="GitHub Streak" width="400" />
+    <img src="https://streak-stats.demolab.com?user=sydshelf75&theme=dark" alt="GitHub Streak" width="400" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydshelf75&layout=compact&theme=dark" alt="Top Languages" width="300" />
 </div>
 
 ## 🌱 Currently Learning
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 - Next.js
 
 ## 📫 Contact Me
-- **Email:** sridharsing14@gmail.com
+- **Email:** sridhar.sing@shelfexecution.com
 - **LinkedIn:** [linkedin.com/in/sridharsing7570](https://www.linkedin.com/in/sridhar-sing-4b7b8a244/)
 - **Twitter:** [twitter.com/sridharsing7570](https://twitter.com/sridharsing7570)
 
